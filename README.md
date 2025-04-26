@@ -45,7 +45,7 @@ The project demonstrates fundamental AR concepts like placing and interacting wi
 ## 📩 Contact
 For collaboration or queries:
 
-- **Email**: @SABHYAGUPTA5XR
+- **Email**: sabhyagupta4xr@gmail.com
 
 ---
 
